@@ -18,7 +18,7 @@ to start node server
 
 ## postman collection
 
-please import the json collectin by using the [this](http://semver.org/) link 
+please import the json collectin by using the [this](https://www.getpostman.com/collections/08b33d15adaf0f378abd) link 
 
 https://www.getpostman.com/collections/08b33d15adaf0f378abd
 
