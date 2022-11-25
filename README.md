@@ -1,4 +1,4 @@
-# fetching-API-with-base-auth-and-axios
+# fetching-API-with-basic-auth-and-axios
 
 ## To download the project
 
